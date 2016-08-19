@@ -1,4 +1,3 @@
-# 2016coscup
 
 ## calliplus v3.pptx
 2016 coscup slides
